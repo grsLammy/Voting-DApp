@@ -1,0 +1,9 @@
+node_modules
+/src/bank.png
+/src/eth-logo.png
+/src/logo.png
+/src/tether.png
+/src/token-logo.png
+/public/favicon.ico
+/public/mainfest.json
+.gitignore
